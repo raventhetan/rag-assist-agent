@@ -1,0 +1,4 @@
+PyMuPDF>=1.23.0
+opencv-python>=4.6.0
+numpy>=1.20.0
+Pillow>=9.0.0
